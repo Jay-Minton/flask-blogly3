@@ -1,0 +1,24 @@
+.delete {
+    color: white;
+    background-color: red;
+}
+
+.cancel {
+    color: white;
+    background-color: blue;
+}
+
+.save {
+    color: white;
+    background-color: green;
+}
+
+.button {
+    width: 90px;
+    height: 30px;
+}
+
+textarea {
+    height: 100px;
+    width: 300px;
+}
